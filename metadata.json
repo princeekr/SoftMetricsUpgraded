@@ -1,0 +1,5 @@
+{
+  "name": "SoftMetrics: Software Economics Calculator",
+  "description": "A web application for performing common financial calculations in software economics, such as Annuity Factor and Net Present Value (NPV). Features a modern dark theme, responsive design, and clear presentation of results.",
+  "requestFramePermissions": []
+}
